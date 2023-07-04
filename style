@@ -1,0 +1,19 @@
+#container{
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bar{
+    width: 10px;
+    background-color:rgb(60, 13, 168);
+    margin: 1.5px;
+    border: 2px solid rgb(28, 219, 85);
+}
+
